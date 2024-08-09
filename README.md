@@ -1,233 +1,75 @@
-<p align="center">
-  <a href="https://l3agi.com//#gh-light-mode-only">
-    <img src="./apps/ui/src/assets/images/l3_logo.png" alt="L3AGI logo" width="150px" height="150px"/>
-  </a>
-</p>
-
-<p align="center"><i>Open-source tool that enables AI Assistants to collaborate together as effectively as human teams.</i></p>
-    
-<h3 align="center">
-	<a href="https://l3agi.com?utm_medium=community&utm_source=github">Try Our Cloud</a>
-	<span> | </span>
-	<a href="./docs/basic.md">Docs</a>
-	<span> | </span>
-	<a href="https://discord.gg/FcVZKcaRCV">Community Discord</a>
-</h3>
-
-<p align="center">
-<a href="https://github.com/l3vels/L3AGI/fork" target="blank">
-<img src="https://img.shields.io/github/forks/l3vels/L3AGI?style=for-the-badge" alt="L3AGI forks"/>
-</a>
-
-<a href="https://github.com/l3vels/L3AGI/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/l3vels/L3AGI?style=for-the-badge" alt="L3AGI stars"/>
-</a>
-<a href='https://github.com/l3vels/L3AGI/releases'>
-<img src='https://img.shields.io/github/release/l3vels/L3AGI?&label=Latest&style=for-the-badge'>
-</a>
-
-</p>
-
-<p align="center"><b>Follow L3AGI </b></p>
-
-<p align="center">
-<a href="https://twitter.com/l3velshq" target="blank">
-<img src="https://img.shields.io/twitter/follow/l3vels?label=Follow: l3vels&style=social" alt="Follow L3AGI"/>
-</a>
-<a href="https://www.reddit.com/r/L3AGI/" target="_blank"><img src="https://img.shields.io/twitter/url?label=/r/L3AGI&logo=reddit&style=social&url=https://github.com/l3vels/L3AGI"/></a>
-
-<a href="https://discord.gg/FcVZKcaRCV" target="blank">
-<img src="https://img.shields.io/discord/1085735429426401340?label=Join%20L3AGI&logo=discord&style=social" alt="Join L3AGI Discord Community"/>
-</a>
-<a href="https://www.youtube.com/@L3AGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https://github.com/l3vels/L3AGI"/></a>
-</p>
-
-<p align="center"><b>Connect with the Creators </b></p>
-
-<p align="center">
-<a href="https://twitter.com/gigch_eth" target="blank">
-<img src="https://img.shields.io/twitter/follow/gigch_eth?label=Follow: Giga&style=social" alt="Follow Chkhikvadze"/>
-</a>
-<a href="https://twitter.com/EduardoFaraday" target="blank">
-<img src="https://img.shields.io/twitter/follow/EduardoFaraday?label=Follow: EduardoFaraday&style=social" alt="Follow EduardoFaraday"/>
-</a>
-<a href="https://twitter.com/MOkradze" target="blank">
-<img src="https://img.shields.io/twitter/follow/MOkradze?label=Follow: MOkradze&style=social" alt="Follow Okradze"/>
-</a>
-</p>
-
-Of course! Here's the revised "Features" section with the requested emojis and in its entirety:
-
----
-
-## ✨ Features
-
-<a href="https://youtu.be/R2hYNONKwKI" target="_blank" rel="noopener noreferrer">
-    <img src="docs/assets/playYTFeatures.png" alt="Watch the video">
-</a>
-
-L3AGI offers a robust set of functionalities that empower you to design, supervise, and execute both autonomous AI Assistants and Teams of Assistants. Here's what sets us apart:
-
-- **🤖 Team Of Assistants**: L3AGI pioneers in facilitating the creation and management of Teams of AI Assistants. These are groups of individual AI Assistants that collaborate seamlessly for more complex tasks and simulations.
-
-- **🔧 Autonomous AI Assistants**: Design and oversee standalone AI Assistants that act autonomously based on their configuration.
-
-- **🧠 Assistant Memory**: Equip your AI Assistants with the ability to retain and recall information, enabling them to make more informed decisions.
-
-- **🔗 Data Sources & Integration**:
-  - Connect your AI Assistants to an array of data sources for efficient information retrieval and processing.
-  - Integrate VectorDBs for enhanced data management and querying capabilities.
-  - Employ the LlamaIndex (GPT Index) to boost the data framework for your LLM application.
-
-<table align="center" border="0">
-  <tr>
-    <td align="center"><img src="./apps/ui/src/assets/images/postgres.png" width="50px"><br>Postgres</td>
-    <td align="center"><img src="./apps/ui/src/assets/images/mySql.png" width="50px"><br>Mysql</td>
-    <td align="center"><img src="./apps/ui/src/assets/images/uploadFile.png" width="50px"><br>Files</td>
-    <td align="center"><img src="./apps/ui/src/assets/images/web_black.png" width="50px"><br>WebPage</td>
-    <td align="center"><img src="./apps/ui/src/assets/images/notionLogo.png" width="50px"><br>Notion</td>
-    <td align="center"><img src="./apps/ui/src/assets/images/google_analytics.png" width="50px"><br>Google Analytics</td>
-    <td align="center"><img src="./apps/ui/src/assets/images/firebase.svg" width="50px"><br>Firebase</td>
-  </tr>
-</table>
-
-- **🛠 Toolkits**: Empower your AI Assistants with our curated sets of tools, tailor-made for specific tasks.
-
-<table align="center" border="0">
-  <tr>
-    <td align="center"><img src="./apps/ui/src/assets/tools/google.png" width="35px"><br>SERP</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/webscrapping.png" width="35px"><br>Web Scraper</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/DuckDuckGo.png" width="35px"><br>DuckDuckGo</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/bing.png" width="35px"><br>Bing</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/wikipedia.png" width="35px"><br>Wikipedia</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/arxiv.jpeg" width="35px"><br>Arxiv</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/openweather.svg" width="35px"><br>OpenWeather</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./apps/ui/src/assets/tools/chart.png" width="35px"><br>Charts</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/twilio.png" width="35px"><br>Twilio</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/twitter.png" width="35px"><br>Twitter</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/instagram.webp" width="35px"><br>Instagram</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/slack.png" width="35px"><br>Slack</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/gmail.png" width="35px"><br>Gmail</td>
-    <td align="center"><img src="./apps/ui/src/assets/tools/googleCalendar.png" width="35px"><br>Google Calendar</td>
-  </tr>
-</table>
-
-- **📊 Chart Generator**: Turn your data into insightful visualizations with our intuitive chart generator.
-
-- **📄 Report Generator**: Streamline report creation with our user-friendly report generator tool.
-
-- **🌐 Community Building**: Engage with a dynamic community to collectively enhance and refine your AI Assistants.
-
-- **🖥 User Interface (UI)**: Utilize our sleek, user-friendly interface for building and managing your AI Assistants and their teams.
-
-- **📡 APIs**: Robust APIs ensure smooth integration of L3AGI with other systems and support advanced customizations for your specific needs.
-
-## 🚀 Roadmap [here](https://github.com/orgs/l3vels/projects/1)
-
-<br>
-
-## ⚡ Quick Start
-
-<a href="https://youtu.be/-dFJiypmCJA" target="_blank" rel="noopener noreferrer">
-    <img src="docs/assets/quickstart.png" alt="Watch the video">
-</a>
-
-### Pre-requisites
-
-- Docker 🐳
-- Docker Compose
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/l3vels/L3AGI.git
-   ```
-
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd L3AGI
-   ```
-
-3. **Setup Git Hooks**
-
-   ```bash
-   chmod +x setup.sh
-   ./setup.sh
-   ```
-
-4. **Create `.env` file from `.env.example` in `apps/server` directory and configure**
-   - **Configure `Azure Web PubSub` using [our guide here](docs/azure.md)**
-5. **Create `.env` file from `.env.example` in `zep` directory and configure**
-
-6. 🐳 **Run Docker Compose:**
-
-   ```bash
-   docker-compose up --build
-   ```
-
-   This will build and start both the React UI and FastAPI services.
-
-## Access the Services
-
-- **React UI**: Open `http://localhost:3000` in your browser.
-- **FastAPI Server**: Open `http://localhost:4000` in your browser or API client.
-
-## Directory Structure
-
-```
-.
-├── apps/
-│ ├── ui/ # React UI Application
-│ └── server/ # Python FastAPI Server
-└── docker-compose.yml # Main Docker Compose File
-```
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6f7f6f?style=for-the-badge&logo=SQLAlchemy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-b7d019?style=for-the-badge&logo=LangChain&logoColor=white)
-![Zep](https://img.shields.io/badge/Zep-7e56c2?style=for-the-badge&logo=zep&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## L3AGI Architecture
-
-<details>
-  <summary>Database Schema</summary>
-  
-  ![DB ERD](docs/assets/ERD.jpg)
-</details>
-
-<br/>
-
-## Troubleshooting
-
-- If you encounter issues when starting the services, ensure Docker and Docker Compose are installed and up to date.
-- Check the logs for any service-specific errors.
-
-## 🚧 In Progress!
-
-This initiative is currently in its developmental phase and might have some inconsistencies. We value your patience and comprehension. Should you face any challenges, kindly consult our list of existing issues first. If you can't find a relevant one, please open a new issue explaining the concern you faced. Your backing means a lot to us! Thank you!
-
-## Contributors
-
-[![Chkhikvadze](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/10281306?v=4&w=50&h=50&mask=circle)](https://github.com/Chkhikvadze)
-[![Okradze](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/22216909?v=4&w=50&h=50&mask=circle)](https://github.com/okradze)
-[![Levanion](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91427080?v=4&w=50&h=50&mask=circle)](https://github.com/levanion)
-[![Bakhutashvili](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85249145?v=4&w=50&h=50&mask=circle)](https://github.com/DavitBakhutashvili)
-[![Theiskaa](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/59066341?v=4&w=50&h=50&mask=circle)](https://github.com/theiskaa)
-[![edufaraday](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/56274334?v=4&w=50&h=50&mask=circle)](https://github.com/edufaraday)
+# Name: Kumar Shubham <br> Applied for: AI/ML Intern at PGAGI <br> Integration of XAgent into L3AGI Framework
+## Objective:
+Replace the existing Langchain REACT Agent in the L3AGI framework with the XAgent framework.
+## Background Information:
+- L3AGI Framework: https://github.com/l3vels/L3AGI   
+- XAgent Framework: https://github.com/OpenBMB/XAgent
+## Tasks:
+### 1. Understand the Existing Implementation:
+   - Review the L3AGI framework, focusing on areas where Langchain REACT Agent(https://python.langchain.com/docs/modules/agents/agent_types/react) is currently implemented.
+   - Key files to examine: `test.py`, `conversational.py`, `dialogue_agent_with_tools.py`.
+### 2. Plan the Replacement:
+   - Document the functionalities of the Langchain REACT Agent within L3AGI.
+   - Outline how these functionalities will be replicated or replaced by XAgent.
+### 3. Implement the Replacement:
+   - Remove the Langchain REACT Agent from the L3AGI framework.
+   - Integrate the XAgent framework, ensuring it fulfills the roles previously handled by the Langchain REACT Agent.
+   - Ensure that the integration is seamless and maintains the integrity of the L3AGI framework.
+### 4. Testing and Documentation:
+   - Thoroughly test the framework to ensure that all functionalities work as expected with XAgent.
+   - Document the changes made, including any new functionalities or alterations to existing features.
+## Documentation of changes in test.py file:
+### 1. Framework Replacement:
+The Langchain REACT Agent, which was originally responsible for handling tasks, was replaced with the XAgent framework. This change required altering the core agent initialization and evaluation processes to align with XAgent’s API and functionality.
+### 2. Agent Initialization:
+Before: The agent_factory() function was designed to create an agent using ChatOpenAI and initialize_agent from Langchain, along with a tool (e.g., SerpGoogleSearch). The agent's behavior was customized with parameters like system_message, output_parser, and max_iterations.
+After: The xagent_factory() function now initializes an agent using the XAgent class, incorporating similar configurations such as model_name, tools, system_message, output_parser, and other parameters, but tailored to XAgent’s API.
+### 3. Tool Integration:
+Before: The tools were integrated using the get_tools function from Langchain, passing the desired tool names.
+After: Tools are directly passed as a list to the XAgent class during initialization, specifically using XSerpGoogleSearch.
+### 4. Client Initialization:
+Before: The Client() class from Langsmith was used to interact with the evaluation process.
+After: The XAgentClient() class is now used for initializing the client, which is responsible for managing the interactions with the agent during the evaluation process.
+### 5. Evaluation Configuration:
+Before: RunEvalConfig was used to set up the evaluation process, defining the evaluators and criteria, such as "helpfulness" and "conciseness". The configuration was then passed to the run_on_dataset function.
+After: The evaluation process is now configured using XAgentEvalConfig, which serves a similar purpose but aligns with XAgent's internal structure. The evaluators and criteria are still defined, but the evaluation process is managed by XAgent.
+### 6. Dataset Evaluation Execution:
+Before: The run_on_dataset function from Langchain was used to evaluate the agent on a specific dataset, passing the client, dataset name, and evaluation configuration.
+After: The client.run_on_dataset() method of the XAgentClient class is now used to execute the evaluation, which performs a similar operation but is designed to work seamlessly with XAgent.
+## Documentation of changes in conversational.py file:
+### 1. Framework Replacement:
+The ConversationalAgent class has been updated to replace the Langchain REACT Agent with the XAgent framework. This change impacts the core logic for initializing agents, handling memory, processing input/output, and managing errors.
+### 2. Memory Management:
+Before: The ZepMemory class was used to manage the conversation history, with memory initialization occurring in the run() method.
+After: The memory management is now handled by XAgentMemory, which serves a similar purpose but is aligned with the XAgent framework.
+### 3. System Message Handling:
+Before: The system message was built using SystemMessageBuilder and passed into the Langchain agent during initialization.
+After: The same system message is passed to the XAgent during its initialization, ensuring that the agent still operates within the context defined by the system message.
+### 4. Tool Integration:
+Before: Tools were integrated into the Langchain REACT agent via initialize_agent, using configurations specific to the Langchain framework.
+After: Tools are now integrated directly into the XAgent during initialization. The framework-specific configurations for tool integration are adapted to XAgent’s API.
+### 5. Agent Initialization:
+Before: The agent was initialized using initialize_agent with configurations for memory, error handling, and system messages.
+After: The agent is initialized using the XAgent class with similar configurations, but adapted to XAgent's structure. The XAgentExecutor is used to manage the agent's execution.
+### 6. Streaming and Event Handling:
+Before: Streaming events were handled using AsyncCallbackHandler, and event management was tied to Langchain-specific functions.
+After: Streaming and event handling are now managed by XAgentAsyncCallbackHandler, which is designed to work with XAgent’s streaming capabilities.
+## Documentation of changes in dialogue_agent_with_tools.py file:
+### 1. Agent Framework Replacement:
+Before: The Langchain REACT Agent was used within the DialogueAgentWithTools class, relying on the initialize_agent function to set up the agent with tools and configurations.
+After: The XAgent framework replaces Langchain REACT Agent, with XAgent and XAgentExecutor being utilized to manage the agent’s behavior, tool integration, and execution.
+### 2. Model Replacement:
+Before: The ChatOpenAI model from Langchain was used as the underlying language model.
+After: The XAgent model replaces ChatOpenAI, allowing for more direct integration with the XAgent framework, which includes similar functionalities but optimized for XAgent's architecture.
+### 3. Memory Management:
+Before: The ZepMemory class was employed to manage conversation history, ensuring that the dialogue context was preserved across interactions.
+After: Memory management is now handled by XAgentMemory, which is designed to integrate seamlessly with the XAgent framework while maintaining the same conversation history features.
+### 4. Tool Integration:
+Before: Tools were integrated into the Langchain agent using the initialize_agent method, which configured the tools and memory for use in the dialogue.
+After: Tools are now integrated directly into the XAgent using its constructor. This change streamlines the process and allows for tighter integration with the XAgent's execution flow.
+### 5. Output Parsing:
+Before: The output parsing was managed by ConvoOutputParser, a custom parser designed to work with the Langchain REACT Agent.
+After: Output parsing is now handled by XAgentOutputParser, which aligns with the XAgent framework’s output requirements and ensures the proper interpretation of the generated responses.
+### 6. Agent Configuration:
+Before: The agent was configured using a set of arguments passed to initialize_agent, which included tools, memory, callbacks, and system messages.
+After: The configuration is handled directly within the XAgent initialization, simplifying the process and allowing for more direct control over agent behavior.
