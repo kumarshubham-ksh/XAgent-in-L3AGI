@@ -1,4 +1,4 @@
-# Name: Kumar Shubham <br> Applied for: AI/ML Intern at PGAGI <br> Integration of XAgent into L3AGI Framework
+# Integration of XAgent into L3AGI Framework
 ## Objective:
 Replace the existing Langchain REACT Agent in the L3AGI framework with the XAgent framework.
 ## Background Information:
